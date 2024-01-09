@@ -1,0 +1,370 @@
+= OfflinePedia
+
+Acceder a internet es imposible para cerca de 4 mil millones de
+personas en el mundo, incluso costear un computador estándar es muy
+complicado para muchos.
+
+OfflinePedia es un proyecto de voluntariado y acción social que tiene
+por objetivo rediseñar el acceso a contenidos enciclopédicos y
+académicos disponibles en las distintas ramas del proyecto
+[72]Wikimedia en las comunidades rurales. Para llevar estos contenidos
+a zonas rurales donde no hay facilidad de conexión a internet ni
+tampoco de uso de computadores tradicionales, se desarrolló un
+computador, basado en Raspberry Pi y [73]Kiwix, de bajo coste y con
+componentes reciclados, como televisores CRT,^[74][1], que contienen la
+Wikipedia totalmente descargada, cientos de libros de literatura
+universal del Proyecto Gutenberg, simulaciones didácticas, y contenido
+académico variado para ser accedido sin internet.
+
+Mira este [75]video que resume nuestra primera experiencia en
+territorio.
+
+Enlaces rápidos[[76]edit]
+
+   [77][604px-Mapa_de_la_p%C3%A1gina_en_Meta_OfflinePedia.png] Mapa de la
+   página en Meta OfflinePedia, revisa todos esos enlaces [78]aquí.
+
+   Puedes visualizar TODO nuestro contenido y miembros [79]aquí.
+
+   Las bitácoras de las actividades que hemos realizado desde el inicio de
+   los tiempos [80]aquí.
+
+   También puedes proponer nuevas ideas [81]aquí.
+
+   Revisa nuestro material didáctico en este [82]enlace.
+
+   Revisa nuestros talleres en este [83]enlace.
+
+   OfflinePedia en la Educación accede a la información [84]aquí.
+
+   ¿Quieres colaborar con nosotros?
+     * Revisa nuestra guía de herramientas digitales en este [85]link.
+     * Edita nuestras entradas que requieren mejorar de esta [86]lista.
+
+Comunidades actualmente beneficiadas[[87]edit]
+
+   Entre las distintas comunidades rurales ecuatorianas que ya tienen un
+   dispositivo OfflinePedia funcionando en sus lugares de acceso público
+   (casas comunales, escuelas, colegios) están:
+    1. [88]Comunidad "Cajas Jurídica" - Cantón Otavalo - Provincia de
+       Imbabura
+    2. [89]Comunidad "Progreso" - Parroquia Pacto - Provincia de Pichincha
+    3. [90]Unidad Educativa 12 de Noviembre - Cantón Mira - Provincia del
+       Carchi
+    4. [91]Comunidad "San Virgilio" - Provincia de Pastaza
+    5. [92]Unidad de Policia Comunitaria (UPC) - Cantón Los Bancos -
+       Provincia de Pichincha.
+    6. Comunidad "San Pedro" - Cantón Cotacachi - Provincia de Imbabura
+    7. Casa de la Juventud - Prefectura de Tulcán - Provincia del Carchi
+
+   Se busca instalar OfflinePedia en más comunidades, puedes ver la lista
+   de comunidades o instituciones propuestas [93]aquí.
+
+Actividades principales[[94]edit]
+
+   [95][400px-Foto_Grupal_Pacto_Progeso_Instalacion_OfflinePedia.jpg]
+   [96]Grupo de voluntarios participando durante la instalación de
+   OfflinePedia v2, El Progreso, Pacto, Pichincha, Ecuador.
+
+   Como el objetivo principal es compartir el conocimiento libre
+   disponible en Wikimedia ([97]Wikipedia, principalmente), mediante una
+   convocatoria de estudiantes voluntarios, y por medio de compartir
+   experiencias académicas, realizando demostraciones tecnológicas en
+   zonas rurales donde la gente no tenga acceso a internet. De esta forma
+   se busca compartir e incentivar la búsqueda de conocimiento, divulgando
+   conceptos de ciencia y tecnología sin terminología técnica.
+
+   Una vez motivada la comunidad, se procede a instalar el dispositivo
+   OfflinePedia. Este dispositivo esta diseñado para funcionar como núcleo
+   de una biblioteca rural, que posibilita el acceso a los contenidos de
+   Wikipedia en estos contextos donde la conectividad a internet es nula o
+   muy poca. Así, rematerializando los contenidos de Wikipedia online en
+   un dispositivo físico que puede ser accedido sin conexión a internet,
+   superarando la amplia brecha digital de los sectores rurales
+   ecuatorianos.
+
+   Actualmente, el proyecto se encuentra en fase secundaria de análisis
+   etnográfico de las comunidades involucradas, para así aprender de las
+   necesidades específicas que surgen al implementar OfflinePedia en sus
+   áreas comunes.
+
+   Revisa nuestro plan de trabajo en construcción, para beneficiarios
+   futuros a largo plazo [98]aquí.
+
+Detalles técnicos[[99]edit]
+
+   El dispositivo OfflinePedia consiste en una computadora de Hardware y
+   Software Libre de bajo costo, que usa un Raspberry Pi como componente
+   principal. El Raspberry Pi es conectado a un televisor analógico a
+   través de una conexión RCA, e iniciado con una versión de Debian
+   Raspbian con [100]Kiwix instalado para comprimir las imágenes offline
+   de Wikipedia. Esta configuración hace a OfflinePedia un dispositivo
+   barato (aproximadamente USD ~100) y fácil de compartir y replicar.
+   Además un hotspot de Wi-Fi local es implementado para que la gente,
+   aparte de poder sentarse tras el televisor para leer, pueda conectarse
+   mediante sus celulares al servidor local instalado para leer mientras
+   estén cerca de la caja OfflinePedia.
+
+UNESCO | Recomienda Recursos Educativos Abiertos (REA)[[101]edit]
+
+   La UNESCO considera que el acceso universal a la educación de calidad
+   contribuye a la paz, el desarrollo social y económico sostenible y el
+   diálogo intercultural. Los Recursos Educativos Abiertos (como la
+   Wikipedia) ofrecen una oportunidad estratégica de mejorar la calidad de
+   la educación y el diálogo sobre políticas, el intercambio de
+   conocimientos y el aumento de capacidades. En su carta emitida a las
+   Naciones Unidas (enlace [102]aquí), UNSECO recomienda su uso global
+   para permitir el libre acceso a conocimiento gratuito y de calidad al
+   mundo.
+
+Cobertura de prensa local[[103]edit]
+
+   [104][335px-Kid_cellphone_kiwix_reading_wikipedia.jpg] Niño
+   conectándose a OfflinePedia, leyendo sobre Kiwix usando su teléfono
+   celular
+     * [105]OfflinePedia, una enciclopedia virtual que llega a las
+       comunidades rurales" - (Diario "La Hora". 15 de julio de 2019)
+     * [106][1] archivo desde Wayback Machine (EcuadorTV)
+     * [107]Salazar expone una enciclopedia para las comunidades (Diario
+       El Norte - 02 de Febrero de 2020)
+     * [108]Enciclopedias "offline" a bajo costo. (Diario El Comercio - 08
+       de marzo de 2020, versión impresa)
+     * [109]Ciencia made in Ecuador que brilla en el mundo (revista Mundo
+       Diners 11 de abril de 2020)
+     * [110]Contenido virtual sin internet ayuda a comunidades rurales
+       (Diario El Comercio - 22 de noviembre de 2021, primera plana
+       versión impresa)
+
+Cobertura de prensa internacionales[[111]edit]
+
+     * [112]Offline-Pedia convierte viejos televisores en lectores de
+       Wikipedia (Global Voices - España)
+     * [113][2] archivo desde Wayback Machine (LaDoBerlin - Alemania)
+     * [114]#ConexiónHumboldt: "No me importa tanto el dinero, sino ayudar
+       a los demás"(Deutche Welle en Español - Alemania)
+     * [115]MIT Innovador menor de 35 años: Joshua Salazar (Ecuador) -
+       proyecto OfflinePedia (MIT Technology Review en Español - México)
+     * [116][3] archivo desde Wayback Machine (Russia Today en Español)
+
+Artículos científicos publicados[[117]edit]
+
+     * [118]Implementing Low Cost Digital Libraries for Rural Communities
+       by Re-functioning Obsolescent Television Sets: The Offline-pedia
+       Project (VIEW Journal of European Television)
+
+Impacto Ambiental[[119]edit]
+
+   [120][432px-Instalacion_de_Offlinepedia_en_la_comunidad_Pacto.jpg]
+   ¿Quieres armar tu propia OfflinePedia? Revisa nuestros tutoriales.
+
+   El reciclaje es uno de los factores a mencionar. Debido a que la
+   elaboración del prototipo es más económica con la reutilización y
+   adaptación de los televisores analógicos que quedan obsoletos por el
+   cambio de señal de analógica a digital. Con esto el proyecto logra
+   prolongar el ciclo de la vida de tales tecnologías obsoletas y reducir
+   el impacto y la cantidad de desechos tecnológicos en el Ecuador.
+
+Tutoriales[[121]edit]
+
+   Si tienes un televisor CRT o un computador viejo que desees revivir
+   para convertirlo en una OfflinePedia puedes acceder a nuestro portal de
+   [122]WikiLibros para tener acceso a todas las herramientas que
+   necesitas. También puedes encontrar cómo se arman en este vídeo de un
+   colaborador de Wikipedia que diseñó una muy interesante introducción
+   [123]aquí.
+
+Contacto[[124]edit]
+
+   También puedes encontrarnos en:
+     * [125]Facebook
+     * [126]Twitter
+     * [127]Instagram
+     * Correo electrónico: offlinepedia@gmail.com
+
+Otros idiomas[[128]edit]
+
+     * Francés/French/Français: [129]Wikimedistas de
+       Ecuador/OfflinePedia(fr)
+     * Inglés/English: [130]Ecuador Wikimedians/OfflinePedia
+
+Más información[[131]edit]
+
+    1. [132]↑ [133]https://blog.wikimedia.org/2018/07/17/offline-pedia/
+
+     *
+
+   Retrieved from
+   "[134]https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecua
+   dor/OfflinePedia&oldid=25174871"
+   [135]Category:
+     * [136]OfflinePedia
+
+     * This page was last edited on 19 June 2023, at 04:02.
+     * Text is available under the [137]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. See
+       [138]Terms of Use for details.
+
+     * [139]Privacy policy
+     * [140]About Meta
+     * [141]Disclaimers
+     * [142]Code of Conduct
+     * [143]Developers
+     * [144]Statistics
+     * [145]Cookie statement
+     * [146]Mobile view
+
+     * [147]Wikimedia Foundation
+     * [148]Powered by MediaWiki
+
+     * (BUTTON) Toggle limited content width
+
+References
+
+   1. https://meta.m.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia
+   2. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit
+   3. https://meta.wikimedia.org/w/opensearch_desc.php
+   4. https://meta.wikimedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#bodyContent
+   6. https://meta.wikimedia.org/wiki/Special:MyLanguage/Main_Page
+   7. https://meta.wikimedia.org/wiki/Wikimedia_News
+   8. https://meta.wikimedia.org/wiki/Special:LanguageStats
+   9. https://meta.wikimedia.org/wiki/Special:RecentChanges
+  10. https://meta.wikimedia.org/wiki/Special:Random
+  11. https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Help
+  12. https://meta.wikimedia.org/wiki/Meta:Babel
+  13. https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Resource_Center
+  14. https://meta.wikimedia.org/wiki/Wikimedia_Forum
+  15. https://meta.wikimedia.org/wiki/Special:MyLanguage/Mailing_lists/Overview
+  16. https://meta.wikimedia.org/wiki/Special:MyLanguage/Meta:Requests_and_proposals
+  17. https://meta.wikimedia.org/wiki/Special:MyLanguage/Meta:Babylon
+  18. https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Affiliates_Data_Portal
+  19. https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Index
+  20. https://en.planet.wikimedia.org/
+  21. https://meta.wikimedia.org/wiki/Special:MyLanguage/Meetup
+  22. https://meta.wikimedia.org/wiki/Events
+  23. https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_movement_affiliates
+  24. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_meta.wikimedia.org&uselang=en
+  25. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#p-lang-btn
+  26. https://meta.wikimedia.org/wiki/Special:MyLanguage/Main_Page
+  27. https://meta.wikimedia.org/wiki/Special:Search
+  28. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia
+  29. https://meta.wikimedia.org/w/index.php?title=Special:CreateAccount&returnto=Wikimedistas+de+Ecuador/OfflinePedia
+  30. https://meta.wikimedia.org/w/index.php?title=Special:UserLogin&returnto=Wikimedistas+de+Ecuador/OfflinePedia
+  31. https://meta.wikimedia.org/w/index.php?title=Special:CreateAccount&returnto=Wikimedistas+de+Ecuador/OfflinePedia
+  32. https://meta.wikimedia.org/w/index.php?title=Special:UserLogin&returnto=Wikimedistas+de+Ecuador/OfflinePedia
+  33. https://meta.wikimedia.org/wiki/Help:Introduction
+  34. https://meta.wikimedia.org/wiki/Special:MyContributions
+  35. https://meta.wikimedia.org/wiki/Special:MyTalk
+  36. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia
+  37. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Enlaces_rápidos
+  38. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Comunidades_actualmente_beneficiadas
+  39. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Actividades_principales
+  40. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Detalles_técnicos
+  41. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#UNESCO_|_Recomienda_Recursos_Educativos_Abiertos_(REA)
+  42. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Cobertura_de_prensa_local
+  43. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Cobertura_de_prensa_internacionales
+  44. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Artículos_científicos_publicados
+  45. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Impacto_Ambiental
+  46. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Tutoriales
+  47. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Contacto
+  48. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Otros_idiomas
+  49. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#Más_información
+  50. https://www.wikidata.org/wiki/Special:EntityPage/Q94640582#sitelinks-wikipedia
+  51. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia
+  52. https://meta.wikimedia.org/wiki/Talk:Wikimedistas_de_Ecuador/OfflinePedia
+  53. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia
+  54. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit
+  55. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=history
+  56. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia
+  57. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit
+  58. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=history
+  59. https://meta.wikimedia.org/wiki/Special:WhatLinksHere/Wikimedistas_de_Ecuador/OfflinePedia
+  60. https://meta.wikimedia.org/wiki/Special:RecentChangesLinked/Wikimedistas_de_Ecuador/OfflinePedia
+  61. https://meta.wikimedia.org/wiki/Special:SpecialPages
+  62. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&oldid=25174871
+  63. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=info
+  64. https://meta.wikimedia.org/w/index.php?title=Special:CiteThisPage&page=Wikimedistas_de_Ecuador/OfflinePedia&id=25174871&wpFormIdentifier=titleform
+  65. https://meta.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia
+  66. https://www.wikidata.org/wiki/Special:EntityPage/Q94640582
+  67. https://meta.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Wikimedistas+de+Ecuador/OfflinePedia
+  68. https://meta.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Wikimedistas_de_Ecuador/OfflinePedia&action=show-download-screen
+  69. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&printable=yes
+  70. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador
+  71. https://meta.wikimedia.org/wiki/File:Offlinepedia_box_front.gif
+  72. https://meta.wikimedia.org/wiki/Wikimedia_projects
+  73. https://meta.wikimedia.org/wiki/Kiwix
+  74. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#cite_note-1
+  75. https://www.youtube.com/watch?v=EQjg03IOito
+  76. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=1
+  77. https://meta.wikimedia.org/wiki/File:Mapa_de_la_página_en_Meta_OfflinePedia.png
+  78. https://meta.wikimedia.org/wiki/Category:OfflinePedia
+  79. https://meta.wikimedia.org/wiki/Category:OfflinePedia
+  80. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia/Bitacoras
+  81. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia/BrainStorm
+  82. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia/Presentaciones
+  83. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia/PropuestaTalleresFuturos
+  84. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia/PlanificacionCurricular
+  85. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia/Bienvenida
+  86. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia/Pendientes
+  87. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=2
+  88. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/Reportes/2018-04#1era_Instalación_OfflinePedia:_Cajas_Jurídica_-_Imbabura
+  89. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/Reportes/2018-11#Instalación_OfflinePedia:_Comunidad_"El_Progreso"
+  90. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/Reportes/2019-01#Instalación_OfflinePedia:_Unidad_Educativa_"19_de_Noviembre"
+  91. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/Reportes/2019-08
+  92. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia/Bitacoras/2020-02
+  93. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia/futurascomunidades
+  94. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=3
+  95. https://meta.wikimedia.org/wiki/File:Foto_Grupal_Pacto_Progeso_Instalacion_OfflinePedia.jpg
+  96. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/Reportes/2018-11#Instalación_OfflinePedia:_Comunidad_"El_Progreso"
+  97. https://meta.wikimedia.org/wiki/Wikipedia
+  98. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia/Plan8Meses
+  99. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=4
+ 100. https://meta.wikimedia.org/wiki/Kiwix
+ 101. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=5
+ 102. https://es.unesco.org/themes/tic-educacion/rea
+ 103. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=6
+ 104. https://meta.wikimedia.org/wiki/File:Kid_cellphone_kiwix_reading_wikipedia.jpg
+ 105. https://www.lahora.com.ec/imbabura/noticia/1102258036/offlinepedia-una-enciclopedia-virtual-+que-llega-a-las-comunidades-rurales-
+ 106. https://web.archive.org/web/20200127205314/https://www.ecuadortv.ec/noticias/tecnologia/estudiante-ecuatoriano-yachay-tech-innovador-
+ 107. https://www.elnorte.ec/ibarra/salazar-expone-una-enciclopedia-para-las-comunidades-AD612046
+ 108. https://www.pressreader.com/ecuador/el-comercio-ecuador/20200308/282677574347122
+ 109. https://revistamundodiners.com/ciencia-made-in-ecuador-que-brilla-en-el-mundo/
+ 110. https://www.pressreader.com/ecuador/el-comercio-ecuador/20201122/281487868897345
+ 111. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=7
+ 112. https://es.globalvoices.org/2019/01/26/offline-pedia-convierte-viejos-televisores-en-lectores-de-wikipedia/
+ 113. https://web.archive.org/web/20210712131334/https://www.ladoberlin.com/2019/10/conexion-humboldt/
+ 114. https://www.dw.com/es/conexiónhumboldt-no-me-importa-tanto-el-dinero-sino-ayudar-a-los-demás/a-51072122
+ 115. https://www.technologyreview.es/listas/35-innovadores-con-menos-de-35/2020/pioneros/joshua-salazar-ecuador
+ 116. https://web.archive.org/web/20200306214423/https://actualidad.rt.com/actualidad/344959-offlinepedia-computador-material-reciclado-comunidades-internet
+ 117. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=8
+ 118. https://viewjournal.eu/articles/10.18146/2213-0969.2019.jethc169/
+ 119. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=9
+ 120. https://meta.wikimedia.org/wiki/File:Instalacion_de_Offlinepedia_en_la_comunidad_Pacto.jpg
+ 121. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=10
+ 122. https://es.wikibooks.org/wiki/OfflinePedia
+ 123. https://www.youtube.com/watch?v=QAEP8LzAwJM
+ 124. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=11
+ 125. https://www.facebook.com/offlinepedia/
+ 126. https://twitter.com/OfflinePedia
+ 127. https://www.instagram.com/offlinepedia/
+ 128. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=12
+ 129. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia(fr)
+ 130. https://meta.wikimedia.org/wiki/Ecuador_Wikimedians/OfflinePedia
+ 131. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&action=edit&section=13
+ 132. https://meta.wikimedia.org/wiki/Wikimedistas_de_Ecuador/OfflinePedia#cite_ref-1
+ 133. https://blog.wikimedia.org/2018/07/17/offline-pedia/
+ 134. https://meta.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&oldid=25174871
+ 135. https://meta.wikimedia.org/wiki/Special:Categories
+ 136. https://meta.wikimedia.org/wiki/Category:OfflinePedia
+ 137. https://creativecommons.org/licenses/by-sa/4.0/deed.en
+ 138. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 139. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 140. https://meta.wikimedia.org/wiki/Meta:About
+ 141. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:General_disclaimer
+ 142. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 143. https://developer.wikimedia.org/
+ 144. https://stats.wikimedia.org/#/meta.wikimedia.org
+ 145. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 146. https://meta.m.wikimedia.org/w/index.php?title=Wikimedistas_de_Ecuador/OfflinePedia&mobileaction=toggle_view_mobile
+ 147. https://wikimediafoundation.org/
+ 148. https://www.mediawiki.org/
