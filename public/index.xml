@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OfflinePedia, plataforma computacional</title>
+    <link>./</link>
+    <description>Recent content on OfflinePedia, plataforma computacional</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 18 Dec 2023 18:20:23 +0700</lastBuildDate>
+    <atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>./contact/</link>
+      <pubDate>Mon, 18 Dec 2023 18:20:23 +0700</pubDate>
+      <guid>./contact/</guid>
+      <description>Tell us about your plans First name Last name Email Phone number Message Send message </description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>./about/</link>
+      <pubDate>Mon, 18 Dec 2023 18:18:04 +0700</pubDate>
+      <guid>./about/</guid>
+      <description>Advocating for better work ethics lorem&#xA;Title Some text&#xA;list&#xA;list&#xA;list&#xA;Text Hello&#xA;Title Title </description>
+    </item>
+    <item>
+      <title>Offer</title>
+      <link>./offer/</link>
+      <pubDate>Mon, 18 Dec 2023 18:16:45 +0700</pubDate>
+      <guid>./offer/</guid>
+      <description>This is a summary.</description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>./posts/content/</link>
+      <pubDate>Mon, 18 Dec 2023 18:12:51 +0700</pubDate>
+      <guid>./posts/content/</guid>
+      <description>This is a summary.</description>
+    </item>
+  </channel>
+</rss>
