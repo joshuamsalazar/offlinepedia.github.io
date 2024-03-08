@@ -1,9 +1,3 @@
-[submodule "themes/osprey-delight"]
-	path = themes/osprey-delight
-	url = https://github.com/kdevo/osprey-delight
-[submodule "themes/minimal_marketing"]
-	path = themes/minimal_marketing
-	url = https://github.com/letItCurl/minimal_marketing
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
